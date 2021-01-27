@@ -16,13 +16,14 @@ Create file at `src/assets/styles/tailwind.css` and you fill that
 
 Open file `src/main.js`
 
+```
 import { createApp } from 'vue'
 import App from './App.vue'
 
 import '@/assets/styles/tailwind.css';
 
 createApp(App).mount('#app')
-
+```
 
 ## Create a Tailwind config file
 
