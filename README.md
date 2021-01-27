@@ -1,6 +1,6 @@
 # Vue 3 with Tailwind CSS Installation
 
-## If clone this repo, you must install or update node_module wit command
+## If clone this repo, you must install or update node_module with command
 
 `npm install`
 
