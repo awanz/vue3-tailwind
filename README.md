@@ -8,7 +8,7 @@
 
 Create file at `src/assets/styles/tailwind.css` and you fill that
 
-```
+```css
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
@@ -16,7 +16,7 @@ Create file at `src/assets/styles/tailwind.css` and you fill that
 
 Open file `src/main.js`
 
-```
+```javascript
 import { createApp } from 'vue'
 import App from './App.vue'
 
@@ -31,7 +31,7 @@ createApp(App).mount('#app')
 
 create file `postcss.config.js` at root with fill
 
-```
+```javascript
 module.exports = {
   plugins: [
     // ...
