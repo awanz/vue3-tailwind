@@ -8,9 +8,11 @@
 
 Create file at `src/assets/styles/tailwind.css` and you fill that
 
+```
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+```
 
 Open file `src/main.js`
 
