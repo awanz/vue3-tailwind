@@ -28,6 +28,7 @@ createApp(App).mount('#app')
 
 create file `postcss.config.js` at root with fill
 
+```
 module.exports = {
   plugins: [
     // ...
@@ -36,7 +37,7 @@ module.exports = {
     // ...
   ]
 }
-
+```
 
 ## Running
 
@@ -44,7 +45,7 @@ module.exports = {
 
 # If error
 
-`Syntax Error: Error: PostCSS plugin tailwindcss require PostCSS 8.
+`Syntax Error: Error: PostCSS plugin tailwindcss require PostCSS 8.`
 
 ## Solve Error with command
 
